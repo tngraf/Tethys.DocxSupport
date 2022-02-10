@@ -6,7 +6,7 @@ there is a steep learning curve. Tethys.DocxSupport simplies a number of operati
 
 ## Project Build Status
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
-[![Build status](https://ci.appveyor.com/api/projects/status/yqtxri7l6td84nxm?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-docxsupport)
+[![Build status](https://ci.appveyor.com/api/projects/status/3k0fy06set3or784?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-docxsupport)
 [![Nuget](https://img.shields.io/badge/nuget-1.0.0-brightgreen.svg)](https://www.nuget.org/packages/Tethys.DocxSupport/1.0.0)
 
 ## Get Package
