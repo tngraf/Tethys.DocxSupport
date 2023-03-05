@@ -9,6 +9,7 @@ SPDX-License-Identifier: Apache-2.0
 [![Build status](https://ci.appveyor.com/api/projects/status/3k0fy06set3or784?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-docxsupport)
 [![Nuget](https://img.shields.io/badge/nuget-1.0.0-brightgreen.svg)](https://www.nuget.org/packages/Tethys.DocxSupport/1.0.0)
 [![REUSE status](https://api.reuse.software/badge/git.fsfe.org/reuse/api)](https://api.reuse.software/info/git.fsfe.org/reuse/api)
+[![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-brightgreen)](https://github.com/tngraf/Tethys.DocxSupport/blob/master/SBOM/sbom.cyclonedx.xml)
 
 This library simplifies working with the [Open XML SDK for Office](https://docs.microsoft.com/en-us/office/open-xml/open-xml-sdk?redirectedfrom=MSDN).
 The **DocX** format has an enormous number of features, but if you just want to create a simple document
