@@ -1,5 +1,5 @@
 <!-- 
-SPDX-FileCopyrightText: (c) 2022-2023 T. Graf
+SPDX-FileCopyrightText: (c) 2022-2024 T. Graf
 SPDX-License-Identifier: Apache-2.0
 -->
 
@@ -13,7 +13,7 @@ SPDX-License-Identifier: Apache-2.0
 
 This library simplifies working with the [Open XML SDK for Office](https://docs.microsoft.com/en-us/office/open-xml/open-xml-sdk?redirectedfrom=MSDN).
 The **DocX** format has an enormous number of features, but if you just want to create a simple document
-there is a steep learning curve. Tethys.DocxSupport simplies a number of operations.
+there is a steep learning curve. Tethys.DocxSupport simplifies a number of operations.
 
 ## Get Package
 
